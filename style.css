@@ -1,0 +1,209 @@
+.bimg{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/883/681/315/restaurant-beach-candles-lights-dinner-hd-wallpaper-preview.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    opacity: 0.7;
+    background-attachment: fixed;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    
+}
+
+.text .border{
+    background-color: rgba(214, 83, 8, 0.778);
+    color: white;
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    font-weight: 700;
+}
+
+.para{
+    text-align: center;
+    padding: 50px;
+    font-style: oblique;
+
+}
+
+.bimg0{
+    background-image: url(https://wallpaperaccess.com/full/2749344.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    opacity: 0.7;
+    background-attachment: fixed;
+}
+
+.text0{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    
+}
+.text0 .border0{
+    /* background-color: rgb(214, 159, 8); */
+    color: aliceblue;
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    font-weight: 700;
+}
+
+.para0{
+    text-align: center;
+    padding: 50px;
+    font-style: oblique;
+    
+}
+
+.bimg1{
+    background-image: url(https://media.istockphoto.com/photos/wooden-brown-books-shelves-with-a-lamp-picture-id1085770318?k=20&m=1085770318&s=612x612&w=0&h=1MmiueCOCEEjQOGDLuUHAonGuFZQFz2BOicOs0cK1cY=);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    opacity: 0.7;
+    background-attachment: fixed;
+}
+
+.text1 {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    
+}
+.text1 .border1{
+    /* background-color: rgb(214, 159, 8); */
+    color: aliceblue;
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    font-weight: 700;
+}
+
+.para1{
+    text-align: center;
+    padding: 50px;
+    font-style: oblique;
+
+}
+
+.bimg2{
+    background-image: url(https://tradingcafeindia.com/wp-content/uploads/2022/01/h-banner.png);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    opacity: 0.7;
+    background-attachment: fixed;
+}
+
+.text2 {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    
+}
+.text2 .border2{
+    /* background-color: rgb(214, 159, 8); */
+    color: aliceblue;
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    font-weight: 700;
+}
+
+.para2{
+    text-align: center;
+    padding: 50px;
+    font-style: oblique;
+
+}
+
+
+.bimg3{
+    background-image: url(https://nypost.com/wp-content/uploads/sites/2/2021/12/foodie.jpg?quality=75&strip=all);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    opacity: 0.7;
+    background-attachment: fixed;
+}
+
+.text3 {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    
+}
+.text3 .border3{
+    /* background-color: rgb(214, 159, 8); */
+    color: aliceblue;
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    font-weight: 700;
+}
+
+.para3{
+    text-align: center;
+    padding: 50px;
+    font-style: oblique;
+
+}
+
+.bimg4{
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cyclist-on-the-col-de-la-colombiere-in-the-french-royalty-free-image-1650363392.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    opacity: 0.7;
+    background-attachment: fixed;
+}
+.text4{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
+
+.text4 .border4{
+    background-color: rgba(214, 83, 8, 0.778);
+    color: white;
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    font-weight: 700;
+}
